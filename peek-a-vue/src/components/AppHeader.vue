@@ -28,7 +28,7 @@
       <span> & </span>
       <a
         :class="$style['powered-link']"
-        href="https://www.github.com/bencodezen/peek-a-vue"
+        href="https://github.com/aevora/Vue/tree/main/peek-a-vue"
       >
         <img
           :class="$style['powered-logo']"
